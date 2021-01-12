@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Emergency</string>
+    <string name="fire">Fire</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="police">Police</string>
+    <string name="traffic">Traffic</string>
+    <string name="num1">180</string>
+    <string name="welcome">Welcome</string>
+    <string name="msg">Wait a second</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="setting">Setting</string>
+    <string name="exit">Exit</string>
+    <string name="camera">Camera</string>
+    <string name="info">Info</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="send">Send</string>
+
+
+</resources>

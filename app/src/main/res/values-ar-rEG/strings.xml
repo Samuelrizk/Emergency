@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الطوارى</string>
+    <string name="fire">المطافى</string>
+    <string name="ambulance">الاسعاف</string>
+    <string name="police">الشرطه</string>
+    <string name="traffic">"المرور "</string>
+    <string name="num1">180</string>
+    <string name="welcome">مرحبا</string>
+    <string name="msg">رساله</string>
+    <string name="play">تشغييل</string>
+    <string name="stop">ايقاف</string>
+    <string name="setting">ضبط</string>
+    <string name="exit">خروج</string>
+    <string name="camera">كاميرا</string>
+    <string name="info">معلومات</string>
+</resources>
