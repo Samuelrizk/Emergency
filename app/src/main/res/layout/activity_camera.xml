@@ -50,5 +50,4 @@
         app:layout_constraintStart_toEndOf="@id/oc"
         app:layout_constraintTop_toBottomOf="@id/kit" />
 
-
 </androidx.constraintlayout.widget.ConstraintLayout>

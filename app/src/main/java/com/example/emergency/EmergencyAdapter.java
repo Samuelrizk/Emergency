@@ -19,7 +19,7 @@ import java.util.ArrayList;
 
 public class EmergencyAdapter extends RecyclerView.Adapter<EmergencyAdapter.EmergencyViewHolder> {
     private MediaPlayer media;
-    private ArrayList<EmergencyModel> emergencyList = new ArrayList<>();
+    private ArrayList<EmergencyModel> emergencyList;
     private Activity activity;
 
     public EmergencyAdapter(ArrayList<EmergencyModel> emergencyList, Activity activity) {

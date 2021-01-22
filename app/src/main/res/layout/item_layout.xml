@@ -4,11 +4,11 @@
     android:id="@+id/Card"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="16dp"
     android:background="#0BF4D3"
     app:cardBackgroundColor="#000"
     app:cardCornerRadius="20dp"
-    app:cardElevation="6dp">
+    app:cardElevation="6dp"
+    app:cardUseCompatPadding="true">
 
     <LinearLayout
         android:id="@+id/linear"
